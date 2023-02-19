@@ -18,4 +18,5 @@
 
 <h2>📈 Shambhavi's Github Stats</h2>
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=Neha2918&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true /></a>
+<a href="https://github.com/Neha2918"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Neha2918&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
