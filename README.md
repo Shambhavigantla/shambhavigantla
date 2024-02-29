@@ -7,7 +7,7 @@
 - I have a keen interest in Competitive Programming, Web and Android Development, AI, and Open Source. 💻
 - I love solving real life problems through technology. 💡
 - I also like Designing.
-- Here is my [Linkedin Profile](linkedin.com/in/shambhavi-gantla-b0b938209 ). Feel free to connect! 👀
+- Here is my [Linkedin Profile](https://www.linkedin.com/in/shambhavi-gantla-b0b938209/). Feel free to connect! 👀
 
 <h2>🛠 Tech Stack</h2>
 
@@ -16,7 +16,4 @@
 
 
 
-<h2>📈 Shambhavi's Github Stats</h2>
 
-<a href="https://github.com/Neha2918"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Neha2918&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
