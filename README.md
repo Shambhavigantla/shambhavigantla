@@ -2,12 +2,14 @@
 
 <h2>🤓 About Me</h2>
 
-- I am a tech enthusiast. 🤠
-- I am currently a third year Computer Science Student. 👨‍🎓
+- Currently pursuing second year in MCA from Pondicherry University.👨‍🎓
+- I am a graduate in Computer Science from the University of Delhi. 👨‍🎓
 - I have a keen interest in Competitive Programming, Web and Android Development, AI, and Open Source. 💻
-- I love solving real life problems through technology. 💡
-- I also like Designing.
-- Here is my [Linkedin Profile](https://www.linkedin.com/in/shambhavi-gantla-b0b938209/). Feel free to connect! 👀
+- Currently exploring blockchain technology and discovering new dimensions of it ever since a workshop sparked my interest.
+- Chose computer science with purpose, stayed for the passion, and now exploring it with dedication and genuine connection. 💡
+
+Here is my LinkedIn profile: [https://www.linkedin.com/in/shambhavi-gantla-b0b938209/](https://www.linkedin.com/in/shambhavi-gantla-b0b938209/). Feel free to connect! 👀
+In between lines of code, Find a piece of me here 🕊️: [shambhavireddy.wordpress.com](https://shambhavireddy.wordpress.com)
 
 <h2>🛠 Tech Stack</h2>
 
