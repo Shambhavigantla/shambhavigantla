@@ -9,6 +9,7 @@
 - Chose computer science with purpose, stayed for the passion, and now exploring it with dedication and genuine connection. 💡
 
 Here is my LinkedIn profile: [https://www.linkedin.com/in/shambhavi-gantla-b0b938209/](https://www.linkedin.com/in/shambhavi-gantla-b0b938209/). Feel free to connect! 👀
+
 In between lines of code, Find a piece of me here 🕊️: [shambhavireddy.wordpress.com](https://shambhavireddy.wordpress.com)
 
 <h2>🛠 Tech Stack</h2>
