@@ -9,6 +9,9 @@
 
 Here is my LinkedIn profile: [https://www.linkedin.com/in/shambhavi-gantla-b0b938209/](https://www.linkedin.com/in/shambhavi-gantla-b0b938209/). Feel free to connect! 👀
 
+PROJECTS I HAVE CONTRIBUTED TO - https://biowasteagency.netlify.app/
+                               - https://dprcpn.com/
+
 In between lines of code, Find a piece of me here 🕊️: [shambhavireddy.wordpress.com](https://shambhavireddy.wordpress.com)
 
 
