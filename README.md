@@ -3,8 +3,9 @@
 
 - Currently pursuing second year in MCA from Pondicherry University.👨‍🎓
 - I am a graduate in Computer Science from the University of Delhi. 👨‍🎓
-- I have a keen interest in Competitive Programming, Web and Android Development, AI, and Open Source. 💻
 - Currently exploring blockchain technology and discovering new dimensions of it ever since a workshop sparked my interest.
+- Interning as an Automation Software Developer at Humanity Founders (https://humanityfounders.com/).
+- I have a keen interest in Competitive Programming, Web and Android Development, AI, and Open Source. 💻
 - Chose computer science with purpose, stayed for the passion, and now exploring it with dedication and genuine connection. 💡
 
 Here is my LinkedIn profile: [https://www.linkedin.com/in/shambhavi-gantla-b0b938209/](https://www.linkedin.com/in/shambhavi-gantla-b0b938209/). Feel free to connect! 👀
