@@ -4,6 +4,7 @@
 - Currently pursuing second year in MCA from Pondicherry University.👨‍🎓
 - I am a graduate in Computer Science from the University of Delhi. 👨‍🎓
 - Currently exploring blockchain technology and discovering new dimensions of it ever since a workshop sparked my interest.
+- ZERO KNOWLEDGE CONCEPTS is a current enthusiastic domain for me!!
 - Learning Rust & Solidity with respect to learn Smart Contract Development.
 - Interning as an Automation Software Developer at Humanity Founders (https://humanityfounders.com/).
 - I have a keen interest in Competitive Programming, Web and Android Development, AI, and Open Source. 💻
