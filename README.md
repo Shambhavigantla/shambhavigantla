@@ -1,7 +1,8 @@
 <h1>Hey, I'm Shambhavi Gantla<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <h2>🤓 About Me</h2>
 
-- Currently pursuing second year in MCA from Pondicherry University.👨‍🎓
+- Joint PhD Scholar at IIIT Hyderabad and IDRBT-Institute of Development & Research in Banking technology
+- Postgraduate in MCA from Pondicherry University.👨‍🎓
 - I am a graduate in Computer Science from the University of Delhi. 👨‍🎓
 - Currently exploring blockchain technology and discovering new dimensions of it ever since a workshop sparked my interest.
 - ZERO KNOWLEDGE CONCEPTS is a current enthusiastic domain for me! -> FEEL FREE TO CATCH UP IF YOU ARE TOO!!
